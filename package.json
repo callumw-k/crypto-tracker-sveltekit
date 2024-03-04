@@ -41,6 +41,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"bits-ui": "^0.18.2",
 		"clsx": "^2.1.0",
 		"kysely": "^0.27.2",
 		"lucide-svelte": "^0.338.0",
